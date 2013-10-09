@@ -1,11 +1,11 @@
 <?php
 					/*
 					Plugin Name:Easy Coming Soon
-					Description: Creates a Coming Soon page for your Website while Coming soon mode on.Collects E-mails and connect with Socials links.
-					Version:1.0
+					Description: Easy coming Soon plugin allows you to quickly create a launch / under construction page for your website. Collects E-mails and connect with users on Social Networks. 
+					Version: 0.5
 					Author:Deepesh paiwal
-					Author URI: 
-					Plugin URI: 
+					Author URI: http://www.webriti.com
+					Plugin URI: http://www.webriti.com
 					*/
 
 		add_action('admin_menu','coming_soon_menu');
