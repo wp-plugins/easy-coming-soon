@@ -2,7 +2,7 @@
 					/*
 					Plugin Name:Easy Coming Soon
 					Description: Creates a Coming Soon page for your Website while Coming soon mode on.Collects E-mails and connect with Socials links.
-					Version:1.0
+					Version: 0.8
 					Author:Deepesh paiwal
 					Author URI: 
 					Plugin URI: 
