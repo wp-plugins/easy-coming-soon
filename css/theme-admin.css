@@ -1,0 +1,61 @@
+.busi-custom-div {
+    border: 0px #050505 solid;
+    float: left;
+    width: 100%;
+}
+
+.one-third {
+    border: 0px #050505 solid;
+    float: left;
+    width: 100%;
+    background: -moz-linear-gradient(center bottom , #FFFFFF, #FAFAFA) repeat scroll 0 0 #F5F5F5;
+    border-color: #DFDFDF;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 13px;
+    line-height: 2.1em;
+    overflow: auto;
+  
+    position: relative;
+	
+	border-radius: 10px;
+
+border: 7px solid #21759b;
+}
+}
+
+.one-forth {
+    border: 0px #050505 solid;
+    float: left;
+    width: 35%;
+    background: -moz-linear-gradient(center bottom , #FFFFFF, #FAFAFA) repeat scroll 0 0 #F5F5F5;
+    border-color: #DFDFDF;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 13px;
+    line-height: 2.1em;
+    margin-left: 10px;
+    overflow: auto;
+    padding: 5px;
+    position: relative;
+}
+
+textarea, input[type="text"], input[type="password"], input[type="file"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="url"], select {
+    background-color: #FFFFFF;
+    color: #333333;
+    width: 90%;
+}
+
+hr {
+    border: 1px dashed rgba(0, 0, 0, 0.1);
+}
+
+
+.handlediv {
+    background:url(../images/arrow-dark.png)  50% no-repeat;
+}
+.handlediv h3:hover, h3.option-active {
+    background:url(../images/arrow-dark.png)  50% no-repeat;
+}
