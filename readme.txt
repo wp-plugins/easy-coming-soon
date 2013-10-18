@@ -62,7 +62,8 @@ In case you face any problem, contact us via the [Forums](http://wordpress.org/s
 == Changelog ==
 
 = 0.86 =
-1. placeholder text of subscribing field is now customizable.
+1. Fixed a Typo
+2. Placeholder text for email subscription field is now editable
 
 = 0.85 =
 1. Resolved Undefined variable error
