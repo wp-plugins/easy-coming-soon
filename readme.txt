@@ -65,7 +65,7 @@ In case you face any problem, contact us via the [Forums](http://wordpress.org/s
 
 = 1.0 =
 1. Description field is now editable with html content.
-2. Subscriber notify feature is added.
+2. Subscriber notification feature is added.
 
 = 0.92 =
 1. Fixed a small bug with Font Selection
