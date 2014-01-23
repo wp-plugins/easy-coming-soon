@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy coming Soon plugin allows you to quickly create a launch / under construction page for your website. Collects e-mails and connect with users on Social Networks. 
+Easy coming Soon plugin allows you to quickly create a launch / under construction page for your website. Collects e-mails and connect with users on Social Network. 
 
 == Description ==
 
