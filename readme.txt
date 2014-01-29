@@ -105,6 +105,10 @@ In case you face any problem, contact us via the [Forums](http://wordpress.org/s
 
 == Changelog ==
 
+= 1.1 =
+1. Increased Font Size for Better Readability
+2. Minor Cosmetic Changes
+
 = 1.0 =
 1. Description field is now editable with html content.
 2. Subscriber notification feature is added.
