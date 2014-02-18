@@ -1,5 +1,5 @@
 
- <?php wp_enqueue_style('cs-bootstrap',plugins_url('/css/cs-bootstrap.css',__FILE__));?>
+ <?php       wp_enqueue_style('cs-bootstrap',plugins_url('/css/cs-bootstrap.css',__FILE__));?>
 <style>
 
 /* =Tooltips style
