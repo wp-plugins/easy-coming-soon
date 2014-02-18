@@ -4,7 +4,7 @@ Donate link: http://www.webriti.com/
 Tags: coming soon, wordpress coming soon, wordpress under construction, wordpress maintenance mode, maintenance mode, under construction, coming soon page, launch page, maintenance, construction, offline,landing page 
 Requires at least: 3.3+
 Tested up to: 3.8.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
