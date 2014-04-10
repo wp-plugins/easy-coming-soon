@@ -129,6 +129,8 @@ text-align: center;">The premium version allows you to capture Visitor Email add
  </div>
  
  
+ 
+ 
   <!-- Email Capture Feature End -->
  
  
