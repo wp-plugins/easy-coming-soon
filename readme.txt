@@ -3,7 +3,7 @@ Contributors: a.ankit, deepeshpaliwal,priyanshu.mittal
 Donate link: http://www.webriti.com/
 Tags: coming soon, coming soon page, construction, landing page, launch, launch page, maintenance, maintenance mode, under construction, admin, newsletter, offline, site offline, wordpress coming soon, wordpress under construction, wordpress maintenance mode,email,gmail,subscriber,notify,message,user,preview,
 Requires at least: 3.3+
-Tested up to: 3.9
+Tested up to: 3.9.1
 Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
