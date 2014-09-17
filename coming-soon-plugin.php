@@ -2,8 +2,8 @@
 					/*
 					Plugin Name:Easy Coming Soon
 					Description: Easy coming Soon plugin allows you to quickly create a launch / under construction page for your website. Collect E-mails and connect with users on Social Networks. 
-					Version: 1.4
-					Author:Deepesh paiwal
+					Version: 1.5
+					Author:Deepesh paiwal, ANkit Agarwal
 					Author URI: http://webriti.com
 					Plugin URI: http://webriti.com
 					*/
