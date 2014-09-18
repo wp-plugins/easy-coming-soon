@@ -4,7 +4,7 @@ Donate link: http://www.webriti.com/
 Tags: coming soon, coming soon page, construction, landing page, launch, launch page, maintenance, maintenance mode, under construction, admin, newsletter, offline, site offline, wordpress coming soon, wordpress under construction, wordpress maintenance mode,email,gmail,subscriber,notify,message,user,preview,
 Requires at least: 3.3+
 Tested up to: 4.0
-Stable tag: 1.5
+Stable tag: 1.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -109,6 +109,9 @@ In case you face any problem, contact us via the [Forums](http://wordpress.org/s
 10. Design setting page
 
 == Changelog ==
+
+= 1.5.1 =
+1. Silly Bug Fix
 
 = 1.5 =
 1. We now check if the user is trying to access login page. The plugin will not run the redirect function in that case
