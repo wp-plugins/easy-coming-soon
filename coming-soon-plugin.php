@@ -475,7 +475,7 @@ border-radius: 3px;
         /*
         * add action to call function my_page_template_redirect
         */
-        add_action( 'template_redirect', 'my_page_template_redirect' );
+     //   add_action( 'template_redirect', 'my_page_template_redirect' );
 		
 		        //get page for live preview when my_preview is true,that mean when this page is call on live preview
                 if (  (isset($_GET['my_preview']) && $_GET['my_preview'] == 'true') )
@@ -488,7 +488,7 @@ border-radius: 3px;
 		 
 		 
 		 /*
-        * We will wrap the template redirect action in this function. We will check if the page is wp-loing.php.
+        * We will wrap the template redirect action in this function. We will check if the page is wp-login.php.
 		  The template redirect action will not be called on login pages. 
         */
 		
