@@ -206,7 +206,7 @@ As a user you just have to fill in the data via option panel and a Coming Soon P
 	
 	<div class="span6" style="width:85%;margin-top: auto;">
 		<h3>Pricing</h3>
-		<p> The pro version is priced at <strong>very reasonable 39 USD</strong> and entitles you to receive <strong>support and updates for 1 year</strong>. <br><br>If you need updates and support after one year, then simply renew the license. If not, then you may keep using the plugin. <br>You may use the plugin on any number of websites you want</p>
+		<p> The pro version is priced at <strong>very reasonable 29 USD</strong> and entitles you to receive <strong>support and updates for 1 year</strong>. <br><br>If you need updates and support after one year, then simply renew the license. If not, then you may keep using the plugin. <br>You may use the plugin on any number of websites you want</p>
 
 
 <h3>How to Purchase.</h3>
